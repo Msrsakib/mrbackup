@@ -1,7 +1,7 @@
 config = {
 "uri":"http://localhost:8888",
 "redirect_uri":"http://localhost:8888/login.html",
-"client_id":"[YOUR_TOKEN_HERE]",
+"client_id":"[3010d0e4341c46c8b521e052f95c348f]",
 "slowdown_import": 100,
 "slowdown_export": 100
 };
